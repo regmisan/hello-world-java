@@ -34,7 +34,6 @@
    <h1> Thankyou, Happy Learning </h1>
 
 <h1> Subscribe my <a href="https://www.youtube.com/channel/UCr7XJhW6GGcQ6hB3ryutcpw">YouTube</a> channel.</h1>
-<h2> This is just a build trigger test </h2>
-<h2> IP change test </h2>
-  
+<h2> This is just a build & deploy to container automation test </h2>
+ 
 </form>
