@@ -33,6 +33,8 @@
 
    <h1> Thankyou, Happy Learning !!! </h1>
 
+<p Testing of CI/CD Pipeline with Git Jenkins and Docker container </p>
+
 <p Automate pipeline test for Ansible to build docker image and push to Docker Hub !!! </p>
 <h1> Subscribe my <a href="https://www.youtube.com/channel/UCr7XJhW6GGcQ6hB3ryutcpw">YouTube</a> channel.</h1>
 <h2> This is just a build & deploy to container automation test </h2>
