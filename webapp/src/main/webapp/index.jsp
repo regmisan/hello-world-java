@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, Happy Learning !! </h1>
 
 <p Automate pipeline test for Ansible to build docker image and push to Docker Hub !!! </p>
 <h1> Subscribe my <a href="https://www.youtube.com/channel/UCr7XJhW6GGcQ6hB3ryutcpw">YouTube</a> channel.</h1>
