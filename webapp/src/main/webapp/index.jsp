@@ -11,8 +11,6 @@
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
-<h1> Hello Test-12345 !! </h1>
-
     <label for="email"><b>Enter your Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
@@ -39,5 +37,6 @@
 <p Automate pipeline test for Ansible to build docker image and push to Docker Hub !!! </p>
 <h1> Subscribe my <a href="https://www.youtube.com/channel/UCr7XJhW6GGcQ6hB3ryutcpw">YouTube</a> channel.</h1>
 <h2> This is just a build & deploy to container automation test </h2>
- 
+
+<h1>Happy Deployment !!!</h1>
 </form>
