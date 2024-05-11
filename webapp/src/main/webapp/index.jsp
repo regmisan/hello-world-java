@@ -29,7 +29,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning !!! </h1>
+   <h1> Thank you, Happy Learning !!! </h1>
 
 <p Testing of CI/CD Pipeline with Git Jenkins and Docker container 123456789 </p>
 
