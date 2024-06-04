@@ -4,7 +4,7 @@
     <p>Sanjaya Regmi - Please fill in this form to create your account.</p>
     <hr>
      
-    <label for="Name"><b>Enter your Name</b></label>
+    <label for="Name"><b>Please enter your Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     <label for="mobile"><b>Enter Your mobile</b></label>
